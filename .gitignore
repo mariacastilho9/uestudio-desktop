@@ -1,0 +1,8 @@
+npm-debug.log*
+.cache/
+yarn-error.log*
+*.log
+*.tgz
+.DS_Store
+.pnpm-store/
+node_modules/
